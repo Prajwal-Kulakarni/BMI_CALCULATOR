@@ -1,20 +1,13 @@
 # BMI_CALCULATOR
-bmi_calculator/
-├── bmi_app.db
-├── main.py
-├── README.md
-python --version
-pip install matplotlib pandas
-python main.py
-bmi_app.db
-# 🧮 BMI Calculator & Tracker (Python Tkinter)
+
+# BMI Calculator & Tracker (Python Tkinter)
 
 A desktop-based BMI (Body Mass Index) Calculator and Tracker developed using Python, Tkinter, and SQLite.  
 The application allows users to calculate BMI, store records, visualize BMI trends, and export data.
 
 ---
 
-## 📌 Features
+## Features
 
 - Calculate BMI using weight and height
 - Automatic BMI category classification
@@ -27,7 +20,7 @@ The application allows users to calculate BMI, store records, visualize BMI tren
 
 ---
 
-## 🧠 BMI Formula
+## BMI Formula
 
 BMI = Weight (kg) / Height² (m)
 
@@ -48,18 +41,17 @@ BMI = Weight (kg) / Height² (m)
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
-1. Install Python 3.8+
+1. Install Python 3.14
 2. Install dependencies:
    pip install matplotlib pandas
-3. Run the application:
-   python main.py
+3. Run the application
 
 ---
 
