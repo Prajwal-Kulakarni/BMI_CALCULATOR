@@ -55,12 +55,15 @@ BMI = Weight (kg) / Height² (m)
 
 ---
 
-## 📤 Export Feature
+## Export Feature
 
 User BMI history can be exported to CSV format for external analysis.
 
 ---
 
-## 📜 License
+## License
 
 This project is open-source and intended for educational use.
+
+## Demo Video link
+https://drive.google.com/drive/folders/1GlMv_WR8CSRvJylqKl0yeR_eR-mwA-Aa?usp=sharing
