@@ -45,7 +45,6 @@ BMI = Weight (kg) / Height² (m)
 - Tkinter
 - SQLite
 - Matplotlib
-- Pandas (optional)
 
 ---
 
